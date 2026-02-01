@@ -1,0 +1,8 @@
+{
+  "name": "ECOthread Loop",
+  "description": "A circular fashion platform that helps users extend the life of their clothing through community styling, fabric-specific care, and a story-driven marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
